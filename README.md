@@ -1,7 +1,7 @@
 # awesome-comfyui
 List of awesome ComfyUI workflows
 
-## Official ComfyUI Resources
+# Official ComfyUI Resources
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI): Official Repo
   
 # Face Manipulation
