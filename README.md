@@ -10,6 +10,10 @@ List of awesome ComfyUI workflows
 
 - [Face 2 Many](https://github.com/fofr/cog-face-to-many) Turn any face into 3D, pixel art, video game, claymation or toy.
 ![screenshot](resources/face2many.jpg)
+
+- [Face 2 Sticker](https://github.com/fofr/cog-face-to-sticker) Turn any face into sticker!
+![screenshot](resources/face2sticker.jpg)
+
 # Photo-Realistic Image Restoration
 - [Image Upscaling](https://github.com/kijai/ComfyUI-SUPIR) ComfyUI SUPIR upscaler wrapper node
   ![screenshot](resources/supir.jpg)
