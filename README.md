@@ -1,8 +1,9 @@
 # awesome-comfyui
 List of awesome ComfyUI workflows
 
-# Official ComfyUI Resources
+# ComfyUI Resources
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI): Official Repo
+- [Creating Custom Node](https://github.com/foxtrot-roger/comfyui-custom-nodes): Guide for creating custom node in ComfyUI
   
 # Face Manipulation
 - [Fast Face Swap](https://github.com/Gourieff/comfyui-reactor-node?tab=readme-ov-file) The Fast and Simple Face Swap Extension Node for ComfyUI, based on ReActor SD-WebUI Face Swap Extension
