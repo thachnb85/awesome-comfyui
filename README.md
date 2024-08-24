@@ -1,9 +1,12 @@
-# ComfyUI Resources
+# Awesome ComfyUI
+List of rencent awesome ComfyUI workflows
+
+## ComfyUI Resources
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI): Official Repo
 - [Creating Custom Node](https://github.com/foxtrot-roger/comfyui-custom-nodes): Guide for creating custom node in ComfyUI
 
-# Awesome Workflows
-## Face Manipulation
+## Awesome Workflows
+### Face Manipulation
 - [Fast Face Swap](https://github.com/Gourieff/comfyui-reactor-node?tab=readme-ov-file) The Fast and Simple Face Swap Extension Node for ComfyUI, based on ReActor SD-WebUI Face Swap Extension
   ![screenshot](resources/fastfaceswap.jpg)
 
@@ -13,7 +16,7 @@
 - [Face 2 Sticker](https://github.com/fofr/cog-face-to-sticker) Turn any face into sticker!
 ![screenshot](resources/face2sticker.jpg)
 
-## Photo-Realistic Image Restoration
+### Photo-Realistic Image Restoration
 - [Image Upscaling](https://github.com/kijai/ComfyUI-SUPIR) ComfyUI SUPIR upscaler wrapper node
   ![screenshot](resources/supir.jpg)
 
