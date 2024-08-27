@@ -20,6 +20,10 @@ List of rencent awesome ComfyUI workflows
 - [IPAdapter](https://github.com/cubiq/ComfyUI_IPAdapter_plus) 1-image lora! Transfer the style from single image to other (composition, style, etc.)
 ![screenshot](resources/IPAdapter1.jpg)
 
+### Generative Fill
+- [Generative Fill](workflows/generative_fill.json) Remove and fill images with generative fill
+![screenshot](resources/generative_fill.jpg)
+
 ### Photo-Realistic Image Restoration
 - [Image Upscaling](https://github.com/kijai/ComfyUI-SUPIR) ComfyUI SUPIR upscaler wrapper node
   ![screenshot](resources/supir.jpg)
