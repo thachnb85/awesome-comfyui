@@ -28,6 +28,8 @@ List of rencent awesome ComfyUI workflows
 - [Image Upscaling](https://github.com/kijai/ComfyUI-SUPIR) ComfyUI SUPIR upscaler wrapper node
   ![screenshot](resources/supir.jpg)
 
+- [ComfyUI-Bringing-Old-Photos-Back-to-Life](https://github.com/cdb-boop/ComfyUI-Bringing-Old-Photos-Back-to-Life) ComfyUI-Bringing-Old-Photos-Back-to-Life
+  ![screenshot](https://github.com/cdb-boop/ComfyUI-Bringing-Old-Photos-Back-to-Life/blob/master/imgs/bopbtl-full-workflow-512.png?raw=true)
 
 # Resources
 - [Training Scripts](https://github.com/ostris/ai-toolkit)
